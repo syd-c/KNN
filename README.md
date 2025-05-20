@@ -8,7 +8,7 @@ python Screening_model.py
 ```
 #### 2. Training
 ```bash
-python Screening_model.py
+models.py
 ```
 #### 2. Screening key features
 ```bash
