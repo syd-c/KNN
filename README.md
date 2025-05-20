@@ -9,3 +9,5 @@ pip install pandas
 pip install matplotlib
 pip install numpy
 pip install scikit-learn
+pip install pyecharts
+pip install xgboost
