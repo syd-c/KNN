@@ -10,7 +10,7 @@ python Screening_model.py
 ```bash
 models.py
 ```
-#### 2. Screening key features
+#### 3. Screening key features
 ```bash
 python RFE.py
 ```
